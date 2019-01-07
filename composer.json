@@ -1,5 +1,5 @@
 {
-    "name": "lunaticus/tile",
+    "name": "lunaticusz/tile",
     "type": "library",
     "require": {
         "php": "^7.0"
